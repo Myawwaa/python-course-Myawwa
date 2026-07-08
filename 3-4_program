@@ -1,0 +1,18 @@
+print('jdeme te vykradat udaje zmrfdde')
+print('napis jmeno')
+jmeno=input('')
+print('napis rok kdy ses narodilo')
+rok=int(input(''))
+print('jdem do toho')
+print('')
+print('jmenujes se', jmeno)
+print('tobe je', 2026-rok, "cca")
+vek=2026-rok
+print('a za pet let ti bude', vek+5, 'asi idk')
+print('')
+print('je to spravne?')
+odpoved=input('')
+if odpoved== "ano" :
+    print('hodnej kluk')
+else:
+    print('di do pice pis spravne udaje')
